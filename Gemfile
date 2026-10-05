@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 gem 'rake', group: :development
 gem 'shotgun', group: :development
 
-gem 'sinatra', '1.4.4'
+gem 'sinatra', '4.2.0'
 gem 'thin', platform: :mri_19
 gem 'oj', platform: :mri_19
 gem 'multi_json'
